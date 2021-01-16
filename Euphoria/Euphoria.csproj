@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculoPorMultiplicador.cs" />
     <Compile Include="MenuEuphoria.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -53,6 +54,7 @@
       <DependentUpon>MenuEuphoria.cs</DependentUpon>
     </Compile>
     <Compile Include="Modificadores.cs" />
+    <Compile Include="Multiplicadores.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="MenuEuphoria.resx">
