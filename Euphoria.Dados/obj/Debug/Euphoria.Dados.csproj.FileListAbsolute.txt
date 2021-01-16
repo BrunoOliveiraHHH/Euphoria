@@ -1,0 +1,5 @@
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\bin\Debug\Euphoria.Dados.dll
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\bin\Debug\Euphoria.Dados.pdb
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria.Dados\obj\Debug\Euphoria.Dados.dll
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria.Dados\obj\Debug\Euphoria.Dados.pdb
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria.Dados\obj\Debug\Euphoria.Dados.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\obj\x86\Debug\Euphoria.MenuEuphoria.resources
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\obj\x86\Debug\Euphoria.Properties.Resources.resources
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\obj\x86\Debug\Euphoria.csproj.GenerateResource.Cache
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\bin\Debug\Euphoria.exe
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\bin\Debug\Euphoria.pdb
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\obj\x86\Debug\Euphoria.exe
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\obj\x86\Debug\Euphoria.pdb
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\obj\x86\Debug\Euphoria.csprojResolveAssemblyReference.cache
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\bin\Debug\Euphoria.Dados.dll
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\bin\Debug\Euphoria.Servicos.pdb
+C:\Users\bruno.d.oliveira\Desktop\MyProjects\Euphoria\Euphoria\bin\Debug\Euphoria.Dados.pdb
