@@ -13,6 +13,7 @@ namespace Euphoria
     {
         private Modificadores modficadores = new Modificadores();
         private CalculoPorMultiplicador calculo = new CalculoPorMultiplicador();
+        private Experiencia exp = new Experiencia();
 
         public MenuEuphoria()
         {
@@ -99,8 +100,46 @@ namespace Euphoria
             lblResultJogador.Text = calculo.CalcularJogador(lblResultado.Text.ToString(), txtQtdPlay.Text.ToString());
         }
 
+        private void expPorNDSubMenu_Click(object sender, EventArgs e)
+        {
+            dgTelaInicial.DataSource = exp.carregaDtgND();
 
+            if (dgTelaInicial.Visible == false)
+            {
+                gpCalculoPlay.Visible = false;
+                gpCalculoXP.Visible = false;
+                dgTelaInicial.Visible = true;
+            }
+        }
 
+        private void expPorNivelSubMenu_Click(object sender, EventArgs e)
+        {
+            dgTelaInicial.DataSource = exp.carregaDtgNvl();
+
+            if (dgTelaInicial.Visible == false)
+            {
+                gpCalculoPlay.Visible = false;
+                gpCalculoXP.Visible = false;
+                dgTelaInicial.Visible = true;
+            }
+        }
+
+        private void expPorDifSubMenu_Click(object sender, EventArgs e)
+        {
+            dgTelaInicial.DataSource = exp.carregaDtgDif();
+
+            if (dgTelaInicial.Visible == false)
+            {
+                gpCalculoPlay.Visible = false;
+                gpCalculoXP.Visible = false;
+                dgTelaInicial.Visible = true;
+            }
+        }
+
+        private void expPorDiaSubMenu_Click(object sender, EventArgs e)
+        {
+
+        }
 
     }
 }
