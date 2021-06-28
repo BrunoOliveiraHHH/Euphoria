@@ -40,6 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Experiencia\ExpPorDiaDados.cs" />
+    <Compile Include="Experiencia\ExpPorDifDados.cs" />
+    <Compile Include="Experiencia\ExpPorNDDados.cs" />
+    <Compile Include="Experiencia\ExpPorNvlDados.cs" />
+    <Compile Include="Experiencia\ItemXP.cs" />
     <Compile Include="Modificadores\ModPorHabDados.cs" />
     <Compile Include="Modificadores\ModPorNDDados.cs" />
     <Compile Include="Modificadores\ModPorNvlDados.cs" />

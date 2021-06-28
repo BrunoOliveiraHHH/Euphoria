@@ -175,24 +175,28 @@
             this.expPorNDSubMenu.Name = "expPorNDSubMenu";
             this.expPorNDSubMenu.Size = new System.Drawing.Size(300, 22);
             this.expPorNDSubMenu.Text = "Experiência por ND";
+            this.expPorNDSubMenu.Click += new System.EventHandler(this.expPorNDSubMenu_Click);
             // 
             // expPorDiaSubMenu
             // 
             this.expPorDiaSubMenu.Name = "expPorDiaSubMenu";
             this.expPorDiaSubMenu.Size = new System.Drawing.Size(300, 22);
             this.expPorDiaSubMenu.Text = "Experiência por dia";
+            this.expPorDiaSubMenu.Click += new System.EventHandler(this.expPorDiaSubMenu_Click);
             // 
             // expPorNivelSubMenu
             // 
             this.expPorNivelSubMenu.Name = "expPorNivelSubMenu";
             this.expPorNivelSubMenu.Size = new System.Drawing.Size(300, 22);
             this.expPorNivelSubMenu.Text = "Experiência por Nivel";
+            this.expPorNivelSubMenu.Click += new System.EventHandler(this.expPorNivelSubMenu_Click);
             // 
             // expPorDifSubMenu
             // 
             this.expPorDifSubMenu.Name = "expPorDifSubMenu";
             this.expPorDifSubMenu.Size = new System.Drawing.Size(300, 22);
             this.expPorDifSubMenu.Text = "Experiência por Dificuldade";
+            this.expPorDifSubMenu.Click += new System.EventHandler(this.expPorDifSubMenu_Click);
             // 
             // multDeExpSubMenu
             // 
