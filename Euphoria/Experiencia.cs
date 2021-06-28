@@ -12,6 +12,7 @@ namespace Euphoria
         private ExpPorNDServico _servicoNd = new ExpPorNDServico();
         private ExpPorNvlServico _servicoNvl = new ExpPorNvlServico();
         private ExpPorDifServico _servicoDif = new ExpPorDifServico();
+        private ExpPorDiaServico _servicoDia = new ExpPorDiaServico();
 
         public DataTable carregaDtgND()
         {
@@ -26,6 +27,11 @@ namespace Euphoria
         public DataTable carregaDtgDif()
         {
             return _servicoDif.carregaDtg();
+        }
+
+        public DataTable carregaDtgDia()
+        {
+            return _servicoDia.carregaDtg();
         }
     }
 }

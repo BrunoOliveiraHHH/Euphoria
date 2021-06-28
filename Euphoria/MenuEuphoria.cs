@@ -138,7 +138,14 @@ namespace Euphoria
 
         private void expPorDiaSubMenu_Click(object sender, EventArgs e)
         {
+            dgTelaInicial.DataSource = exp.carregaDtgDia();
 
+            if (dgTelaInicial.Visible == false)
+            {
+                gpCalculoPlay.Visible = false;
+                gpCalculoXP.Visible = false;
+                dgTelaInicial.Visible = true;
+            }
         }
 
     }
